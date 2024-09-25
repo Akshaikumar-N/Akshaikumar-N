@@ -1,1 +1,1 @@
-[![Spotify](https://akshaikumar.vercel.app/api/spotify)](https://open.spotify.com/user/akshai)
+[![Spotify](https://akshaikumar-n.vercel.app/api/spotify)](https://open.spotify.com/user/akshai)
