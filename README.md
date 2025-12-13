@@ -1,3 +1,8 @@
+<!-- Hello -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshaikumar-N/Akshaikumar-N/main/hello.gif" width="100%" />
+</p>
+
 <!-- Header -->
 ![banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=89ABE3FF&text=I'm%20Akshai&fontSize=40&fontAlign=60&fontColor=FFFFFF)
 
