@@ -24,6 +24,7 @@
 </p>
 
 
+![Monkeytype Badge](https://raw.githubusercontent.com/Akshaikumar-N/monkeytype-badge/main/monkeytype.svg)
 
 
 
