@@ -38,7 +38,7 @@
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=bxkum7vikq94jqiepax7x135b&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=3a88fe&bar_color_cover=true"
       height="165"
-      style="margin-right:20px;"
+      style="margin-right:10px;"
     />
   </a>
 
