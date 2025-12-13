@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: Generate Badge
-        run: monkeytype.py
+        run: python monkeytype.py
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
