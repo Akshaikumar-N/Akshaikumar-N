@@ -23,12 +23,6 @@
   <img src="https://ghtb-counter.vercel.app/api/counter?username=Akshaikumar-N&label=Views&color=000000&labelColor=555555&labelBgColor=eeeeee&countColor=ffffff&style=for-the-badge" />
 </p>
 
-
-![Monkeytype Badge](https://raw.githubusercontent.com/Akshaikumar-N/monkeytype-badge/main/monkeytype.svg)
-
-
-
-
 <!-- Snake Contribution -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshaikumar-N/Akshaikumar-N/output/github-snake-dark.svg" />
